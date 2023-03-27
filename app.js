@@ -3,6 +3,9 @@ let saludo1 = prompt('ingrese la primera parte de su saludo');
 let saludo2 = prompt('ingrese la segunda parte de su saludo');
 document.write('Ejercicio 1 <br/>');
 document.write(saludo1 + ' ' + saludo2 + '<br/>');
+document.write(saludo1);
+document.write(' ');
+document.write(saludo2);
 document.write('<br/>');
 document.write('<br/>');
 
